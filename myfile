@@ -6,3 +6,5 @@ editing after dev without add&commit.
 commit on dev.
 edit on master without commit
 edit on master with add without commit
+
+new edit on dev with commit.
